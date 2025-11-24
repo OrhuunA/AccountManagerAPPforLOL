@@ -10,17 +10,24 @@
 > **[EN]** Manage your League of Legends accounts from a single hub, track their ranks, and view statistics.
 
 ---
-
 ## 📸 Screenshots / Ekran Görüntüleri
 
 <div align="center">
-  <img src="screenshots/main_ui.png" alt="Main Interface" width="800"/>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="screenshots/main_ui.png" alt="Main Interface" width="400"/>
+        <br />
+        <b>Main Interface / Ana Ekran</b>
+      </td>
+      <td align="center">
+        <img src="screenshots/add_account.png" alt="Add Account" width="400"/>
+        <br />
+        <b>Add Account / Hesap Ekleme</b>
+      </td>
+    </tr>
+  </table>
 </div>
-<br/>
-
-| **Add Account / Hesap Ekleme** | **Settings / Ayarlar** | **Edit & Details / Düzenleme** |
-|:---:|:---:|:---:|
-| <img src="screenshots/add_account.png" width="250"/> | <img src="screenshots/settings.png" width="250"/> | <img src="screenshots/edit_account.png" width="250"/> |
 
 ---
 
